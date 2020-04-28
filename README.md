@@ -1,0 +1,1 @@
+The diagnosis of Some Lung Diseases in a Prolog Expert System.
