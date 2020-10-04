@@ -1,1 +1,1 @@
-The diagnosis of Some Lung Diseases in a Prolog Expert System.
+Expect system for diagnosis of some lung diseases including COVID-19.
